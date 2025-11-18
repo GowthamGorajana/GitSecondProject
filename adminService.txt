@@ -1,1 +1,2 @@
 I can addadmins to the page
+manage th dsatabase
